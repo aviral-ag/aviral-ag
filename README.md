@@ -75,15 +75,29 @@ Here are some ideas to get you started:
 
 ## 💼 Featured Projects
 
-- **CARMA - Carbon Management App**: Led 6-month startup incubation project developing a carbon management app with team of 5, implementing gamification and incentive mechanisms
+### 🌊 Water Resources & Hydrology
 
-- **Water Resiliency Model for Central Coast California**: Developed Python-based dynamic resilience index for San Luis Obispo County, integrating 10+ data sources on water demand, supply, and climate projections
+- **Water Resiliency Model for Central Coast California**: Developed Python-based dynamic resilience index for San Luis Obispo County, integrating 10+ data sources on water demand, supply, and climate projections to enhance drought preparedness
 
-- **Sustainable Energy Model for 2050**: Created UNDP-aligned framework to model sustainable energy system for global population of 9 billion, supporting renewable energy adoption aligned with Paris Agreement targets
+- **Frequency Analysis of Non-Stationary Hydrological Extremes in Northern Ohio**: Performed frequency analysis on stream flows and precipitation using the Vogel et al. (2011) method, utilizing 76 years of data from 133 stream gauges. Assessed the impact of trends on extreme events over the next 20 years for 100- to 500-year return periods through the application of magnification factors and reduced return periods
 
-- **Sustainability Reporting & Climate Risk Policy Analysis**: Developed GHG emissions disclosure recommendations for federal contracts over $500M, aligning with CSRD and integrating environmental justice considerations
+- **Streamflow Analysis Using Statistical Models**: Conducted hydrological frequency analysis using probabilistic models on 76 years of streamflow data from 133 gauges. Predicted trends and extremes for 20-year scenarios, aiding water resource planning
 
-- **Frequency Analysis of Non-Stationary Hydrological Extremes**: Performed frequency analysis on 76 years of stream flow data from 133 gauges in northern Ohio, assessing impact of trends on extreme events
+- **Flood Risk Mitigation Using Monte Carlo Simulations**: Applied probabilistic modeling techniques to assess flood risk scenarios and develop mitigation strategies for vulnerable areas
+
+### ♻️ Sustainability & Climate
+
+- **CARMA - Carbon Management App**: Led 6-month startup incubation project developing a carbon management app with team of 5, implementing gamification and incentive mechanisms to drive behavioral change
+
+- **Sustainable Energy Model for 2050**: Created UNDP-aligned framework to model sustainable energy system for global population of 9 billion, supporting renewable energy adoption aligned with Paris Agreement targets, impacting energy policy in 15+ countries
+
+- **Sustainability Reporting & Climate Risk Policy Analysis**: Developed GHG emissions disclosure recommendations for federal contracts over $500M, aligning with CSRD and integrating environmental justice considerations using EPA's screening tool
+
+### 🤖 Machine Learning & Data Science
+
+- **White Shark Detection Using Deep Learning**: Built a YOLOv5-based deep learning pipeline to detect juvenile white sharks in drone imagery, achieving 97.8% mAP. Optimized the model with hyperparameter tuning and transfer learning to ensure real-time wildlife monitoring capabilities
+
+- **Predictive Modeling for Housing Prices in Ames, Iowa**: Applied Ridge and Lasso regression on a dataset of 82 features, employing cross-validation and log transformations to achieve a low RMSE. Delivered insights for real estate planning and policy developments
 
 ## 📚 Teaching & Leadership
 
